@@ -1,7 +1,7 @@
 # To Do Nodejs Express API
 * Go to [APIREADME.md File](https://github.com/maggiemcc/todo-app/blob/master/APIREADME.md)
 * Go to [server.js File](https://github.com/maggiemcc/todo-app/blob/master/server.js)
-* Go to [Routes Folder](https://github.com/maggiemcc/todo-app/blob/master/routes)
+* Go to [Routes Folder](https://github.com/maggiemcc/todo-app/blob/master/routes) for todos and categories JS files
 
 # To Do Application
 ## Created by Team SKEMA 
